@@ -38,7 +38,8 @@ https://drive.google.com/file/d/1QF3N-0yhgliaecsc5R6C3f71Nhp8fHRp/view?usp=shari
 9. Masking
 
 
-
+**Code Execution:**
+Details are available as doc file in each folder.
 
 
 
